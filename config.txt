@@ -1,0 +1,6 @@
+threads=1000
+create=100000
+amount=0
+join=no
+favorite=no
+follow=no
